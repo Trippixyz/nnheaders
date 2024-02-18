@@ -34,7 +34,7 @@ public:
     static void FreeMemory(void* src);
 
     u64 _10;
-    u64 _18;
+    Pane* mRootPane;
     u64 _20;
     u64 _28;
     u64 _30;
